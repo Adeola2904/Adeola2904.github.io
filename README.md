@@ -25,6 +25,19 @@
 ![Transport](Transport.PNG)
 
 # Project 3
+ 
+**Title:** [HR Employee Dashboard](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/HR%20Employee%20Dashboard.xlsx)
+ 
+**Tools Used:** Microsoft Excel (Pivot Chart, Pivot tables, Conditional formating, filters, slicers, Power Query Editor, Data Modelling)
+ 
+**Project Description:**
+ 
+**Key findings:**
+ 
+**Dashboard Overview:**
+![HR](HR.PNG)
+
+# Project 4
 **Title:** Employee Records Cleansing
  
 **SQL Code:** [Sql queries](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Employee_Data.Sql)
