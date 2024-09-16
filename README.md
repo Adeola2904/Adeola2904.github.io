@@ -11,8 +11,20 @@
 **Dashboard Overview:**
 ![Retail%20Sales](Retail%20Sales.PNG)
 
-
 # Project 2
+ 
+**Title: [Transport Company Revenue Dashboard](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Transport%20Company%20DB.xlsx)
+ 
+**Tools Used:** Microsoft Excel (Pivot Chart, Pivot tables, Conditional formating, filters, slicers,)
+ 
+**Project Description:**
+ 
+**Key findings:**
+ 
+**Dashboard Overview:**
+![Transport](Transport.PNG)
+
+# Project 3
 **Title:** Employee Records Cleansing
  
 **SQL Code:** [Sql queries](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Employee_Data.Sql)
