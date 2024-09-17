@@ -38,7 +38,20 @@
 ![HR](HR.PNG)
 
 # Project 4
-**Title:** Employee Records Cleansing
+ 
+**Title:** [HR Attrition Dashboard](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/HR%20Attrition%20Dashboard.xlsx)
+ 
+**Tools Used:** Microsoft Excel (Pivot Chart, Pivot tables, Conditional formating, filters, slicers, timelines)
+ 
+**Project Description:**
+ 
+**Key findings:**
+ 
+**Dashboard Overview:**
+![Attrition](Attrition.PNG)
+
+# Project 5
+**Title:** Employee ID Dashboard
  
 **SQL Code:** [Sql queries](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Employee_Data.Sql)
  
