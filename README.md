@@ -33,7 +33,7 @@ The dataset contains the following columns:
    
 The problem Solving Technique used are; Converting transacton dates and times into appropriate formats, Creating the data model (a combination of the datasets), Identifying outliers and anomalies in the data, Visualizing the distribution of transactions and revenue(EDA).
 
-Project Objectives:
+**Project Objectives:**
 
 I am expected to analyze the dataset and generate meaningful insights. The objectives include:
 
@@ -66,7 +66,7 @@ Young Workforce: The largest group of employees is aged between 29 and 34 years.
 
 Family Responsibilities: With 58% of employees being married, many have family responsibilities, which could mean that financial security is a significant concern for them.
 
-Recommendations:
+**Recommendations:**
 
 Promotion and Career Development: Since many employees have been with the company for over 7 years, it's important to recognize their loyalty. While promoting based on tenure is a good start, adding performance and skill development into the criteria can motivate everyone to continually improve.
 
