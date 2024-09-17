@@ -52,6 +52,7 @@ Review Salary Structure: With most employees earning low salaries, conducting a 
 Support for Family-Oriented Employees: Considering that many employees have families, introducing financial wellness programs, childcare support, or flexible working hours can make a big difference. These initiatives can help employees manage their work-life balance better, leading to increased job satisfaction and productivity.
 
 Develop Young Leaders: Given the youthful nature of the workforce, offering leadership development programs can harness their potential and prepare them for future roles. Additionally, recognizing the strong presence from the East, regional engagement initiatives can foster a deeper connection with the community and enhance company loyalty
+
 **Dashboard Overview:**
 ![HR](HR.PNG)
 
