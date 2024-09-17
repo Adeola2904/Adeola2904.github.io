@@ -83,7 +83,7 @@ Develop Young Leaders: Given the youthful nature of the workforce, offering lead
  
 **Title:** [HR Attrition Dashboard](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/HR%20Attrition%20Dashboard.xlsx)
  
-**Tools Used:** Microsoft Excel (Pivot Chart, Pivot tables, Conditional formating, filters, slicers, Data cleansing and Transformation, Descriptive modelling, Analysis and visual, interactive Dashboard design)
+**Tools Used:** Microsoft Excel (Pivot Chart, Pivot tables, Power Query, Conditional formating, filters, slicers, Data cleansing and Transformation, Descriptive modelling, Analysis and visual, interactive Dashboard design)
  
 **Project Description:** Attrition by demography, Gender, age, and Job role
  
