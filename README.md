@@ -17,7 +17,30 @@
  
 **Tools Used:** Microsoft Excel (Pivot Chart, Pivot tables, Conditional formating, filters, slicers,)
  
-**Project Description:**
+**Project Description:** This project involves analyzing a dataset of 􀆟cket sales from a transport company that operates terminals
+across 10 states in Nigeria. The transactions span three years, from January 2021 to December 2023, and
+are made through four different banks: GTBank, Opay, Paga, and Polaris Bank. The dataset includes
+300,000 transactions.
+
+The dataset contains the following columns:
+1. Transaction ID: Unique identfier for each transaction.
+2. Transaction Date: Date of the transaction.
+3. Transaction Time: Time of the transaction.
+4. Bank: The bank used for the transaction (GTBank, Opay, Paga, Polaris Bank).
+5. State: The state where the terminal is located (10 states in Nigeria).
+6. Terminal ID: Unique identifier for each terminal.
+7. Ticket Amount: Amount paid for the 􀆟cket.
+   
+The problem Solving Technique used are; Converting transacton dates and times into appropriate formats, Creating the data model (a combina􀆟on of the datasets), Identifying outliers and anomalies in the data, Visualizing the distribu􀆟on of transac􀆟ons and revenue(EDA).
+
+Project Objec􀆟ves:
+
+I am expected to analyze the dataset and generate meaningful insights. The
+objec􀆟ves include:
+1. Understanding the distribu􀆟on of transac􀆟ons across different banks.
+2. Analyzing the sales performance in different states.
+3. Iden􀆟fying peak transac􀆟on 􀆟mes and dates
+4. Inves􀆟ga􀆟ng the performance of different terminals.
  
 **Key findings:**
  
