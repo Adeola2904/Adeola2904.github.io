@@ -29,18 +29,18 @@ The dataset contains the following columns:
 4. Bank: The bank used for the transaction (GTBank, Opay, Paga, Polaris Bank).
 5. State: The state where the terminal is located (10 states in Nigeria).
 6. Terminal ID: Unique identifier for each terminal.
-7. Ticket Amount: Amount paid for the 􀆟cket.
+7. Ticket Amount: Amount paid for the ticket.
    
-The problem Solving Technique used are; Converting transacton dates and times into appropriate formats, Creating the data model (a combina􀆟on of the datasets), Identifying outliers and anomalies in the data, Visualizing the distribu􀆟on of transac􀆟ons and revenue(EDA).
+The problem Solving Technique used are; Converting transacton dates and times into appropriate formats, Creating the data model (a combination of the datasets), Identifying outliers and anomalies in the data, Visualizing the distribution of transactions and revenue(EDA).
 
-Project Objec􀆟ves:
+Project Objectives:
 
-I am expected to analyze the dataset and generate meaningful insights. The
-objec􀆟ves include:
-1. Understanding the distribu􀆟on of transac􀆟ons across different banks.
+I am expected to analyze the dataset and generate meaningful insights. The objectives include:
+
+1. Understanding the distribution of transactions across different banks.
 2. Analyzing the sales performance in different states.
-3. Iden􀆟fying peak transac􀆟on 􀆟mes and dates
-4. Inves􀆟ga􀆟ng the performance of different terminals.
+3. Identifying peak transaction times and dates
+4. Investigating the performance of different terminals.
  
 **Key findings:**
  
