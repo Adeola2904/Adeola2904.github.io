@@ -68,13 +68,13 @@ Family Responsibilities: With 58% of employees being married, many have family r
 
 **Recommendations:**
 
-Promotion and Career Development: Since many employees have been with the company for over 7 years, it's important to recognize their loyalty. While promoting based on tenure is a good start, adding performance and skill development into the criteria can motivate everyone to continually improve.
+1. Promotion and Career Development: Since many employees have been with the company for over 7 years, it's important to recognize their loyalty. While promoting based on tenure is a good start, adding performance and skill development into the criteria can motivate everyone to continually improve.
 
-Review Salary Structure: With most employees earning low salaries, conducting a salary review is crucial. Aligning pay with industry standards and ensuring competitive compensation can help in retaining talented staff and keeping them motivated.
+2. Review Salary Structure: With most employees earning low salaries, conducting a salary review is crucial. Aligning pay with industry standards and ensuring competitive compensation can help in retaining talented staff and keeping them motivated.
 
-Support for Family-Oriented Employees: Considering that many employees have families, introducing financial wellness programs, childcare support, or flexible working hours can make a big difference. These initiatives can help employees manage their work-life balance better, leading to increased job satisfaction and productivity.
+3. Support for Family-Oriented Employees: Considering that many employees have families, introducing financial wellness programs, childcare support, or flexible working hours can make a big difference. These initiatives can help employees manage their work-life balance better, leading to increased job satisfaction and productivity.
 
-Develop Young Leaders: Given the youthful nature of the workforce, offering leadership development programs can harness their potential and prepare them for future roles. Additionally, recognizing the strong presence from the East, regional engagement initiatives can foster a deeper connection with the community and enhance company loyalty
+4. Develop Young Leaders: Given the youthful nature of the workforce, offering leadership development programs can harness their potential and prepare them for future roles. Additionally, recognizing the strong presence from the East, regional engagement initiatives can foster a deeper connection with the community and enhance company loyalty
 
 **Dashboard Overview:**
 ![HR](HR.PNG)
