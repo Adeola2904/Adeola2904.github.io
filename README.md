@@ -85,9 +85,34 @@ Develop Young Leaders: Given the youthful nature of the workforce, offering lead
  
 **Tools Used:** Microsoft Excel (Pivot Chart, Pivot tables, Power Query, Conditional formating, filters, slicers, Data cleansing and Transformation, Descriptive modelling, Analysis and visual, interactive Dashboard design)
  
-**Project Description:** Attrition by demography, Gender, age, and Job role
+**Project Description:** The primary objective of this project is to investigate the factors contributing to employee attrition within the company. With a workforce of 780 employees and an overall attrition rate of 30% (234 employees having left the company), It is crucial for me to understand the demographic, performance, and job role trends that may explain why employees are departing. By examining attrition across different dimensions such as age, gender, job role, salary, and performance ratings, the goal is to derive actionable insights that can help the company develop targeted retention strategies and improve employee satisfaction, leading to reduced turnover.
  
-**Key findings:**
+**Key findings:** 
+
+In reviewing the data, some clear patterns have emerged regarding employee attrition. By looking at different factors such as age, gender, performance, and job roles,  below are the key findings that shed light on why people are leaving and where we may need to focus our efforts.
+
+**Attrition by Age Group** The mid-career employees (31-40 years) are experiencing higher attrition. This could be a result of several factors such as career dissatisfaction, lack of growth opportunities, or competing offers from other companies at this stage of their careers
+
+**Attrition by Gender** Female employees are leaving at a higher rate compared to their male counterparts. This may point to gender-specific challenges such as work-life balance, opportunities for advancement, or possibly issues related to workplace inclusivity and equality.
+
+**Attrition by Performance Rating** It is clear that the majority of employees leaving fall under the Poor and Average performance categories. This may indicate that these employees are either being managed out of the company or are leaving due to disengagement or dissatisfaction with their roles.
+
+**Attrition by Salary Range** Surprisingly, both Low and High salary brackets are experiencing high attrition. This suggests that factors beyond compensation, such as job satisfaction, growth potential, and work environment, may be influencing turnover.
+
+**Attrition by Job Role** Roles that are more technical and specialized (e.g., Specialist, Engineer) have higher turnover rates, which may indicate a competitive job market for these skills. Managers and Accountants, who may have more stability or different job satisfaction factors, had lower turnover
+
+**Recommendations**
+
+1. With employees in the 31-40 age group showing the highest attrition, it is important to provide clear career development paths, mentorship opportunities, and avenues for internal mobility to keep this cohort engaged.
+2. Consider conducting stay interviews to better understand what is driving this group to leave and address any underlying issues.
+3. Since 34% of the female workforce has left, higher than the male attrition rate, it may be beneficial to review policies around flexibility, work-life balance, and opportunities for advancement, particularly for women.
+4. Implement initiatives to promote gender diversity in leadership roles and ensure an inclusive work environment.
+5. A large number of Poor and Average performers are leaving, which may indicate a lack of support or development opportunities for these employees. Implementing performance improvement plans, providing targeted training, and creating a culture of continuous feedback could help reduce turnover in this segment.
+6. Focus on understanding the root causes of disengagement among these employees and addressing gaps in role alignment or job satisfaction.
+7. Although salary is not the only factor driving attrition, the company should ensure that its compensation structure is competitive within the industry. Conducting a salary benchmarking exercise could reveal whether certain salary brackets are contributing to dissatisfaction.
+8. Alongside compensation, highlight non-monetary benefits, such as professional development, flexible working conditions, and employee recognition programs.
+9. Establish a real-time dashboard to track attrition across various demographics and roles on an ongoing basis. This will allow HR to intervene more quickly if concerning trends emerge.
+10. Conduct exit interviews with departing employees to gain further insights into the specific reasons behind their decisions to leave and use these insights to adjust retention strategies.
  
 **Dashboard Overview:**
 ![Attrition](Attrition.PNG)
