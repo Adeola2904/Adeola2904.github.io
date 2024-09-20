@@ -4,10 +4,24 @@
  
 **Tools Used:** Microsoft Excel (Pivot Chart, Pivot tables, Conditional formating, filters, slicers)
  
-**Project Description:**
+**Project Description:** This project involves analyzing retail sales revenue data to identify key trends and provide actionable recommendations. The analysis covers sales by category, quarter, year, weekday, and location. Based on these insights, strategies were developed to enhance sales performance, including focusing on high-revenue categories, boosting midweek sales, capitalizing on seasonal peaks, and optimizing top-performing store locations
  
-**Key findings:**
- 
+**Key findings:** 
+
+1. Category Breakdown by Revenue: Electronics and furniture are the primary revenue drivers, signaling high demand for these products. The smaller contribution from groceries could indicate that this category serves a niche or supplementary role.Groceries are often purchased frequently but at lower price points compared to electronics and furniture, which are typically higher items bought less frequently. This makes groceries a lower-revenue category even if the volume of transactions is higher.
+2. Revenue by Quarter: The company experiences a natural spike sales in the latter half of the year, likely due to seasonal factors such as back-to-school, holiday shopping, and year-end sales events.
+3. Revenue by Year: The stability between 2022 and 2023 indicates consistent performance, while the early 2024 figure is not yet a significant indicator of yearly trends due to limited data.
+4. Revenue by Weekday: Weekend shopping dominates, reflecting consumer habits of shopping during leisure time. Midweek dips could suggest fewer promotional activities or less available customer time during these days,However revenue for Midweek were almost at Par which indicate customer shopping frequency.
+5. Top 10 Locations by Units Sold: Congo and Korea lead in unit sales, while other locations like Anguilla and Kenya also perform well. Notably, Guinea-Bissau and Western Sahara show strong revenue despite fewer units sold. With 963 units sold, Guam is among the higher-performing locations in terms of sales volume. Its revenue of 431,198 also positions it as a strong contributor.
+
+**Recommendations:**
+1. Focus on High-Performing Categories: Electronics and furniture should be prioritized for growth strategies, such as expanding the product range, offering bundles or promotions, and improving marketing efforts.Clothing also contributes significantly and can be further leveraged with seasonal fashion promotions or cross-selling with other categories.
+2. Enhance Mid-Week Sales: Since Tuesday and Wednesday are slower sales days, consider offering midweek promotions by offering exclusive rewards or discounts to drive more traffic on those days.
+3. invest more in seasonal promotions
+4. To boost the sales for slower Q1 and Q2, we should consider Post-holiday sales with a sustainance marketing for the period.
+5. The highest selling stores, such as in Congo, Korea, and Anguilla, should be monitored and supported with localized marketing campaigns to cater to their customer demands.
+6. For the emerging markets like Mozambique, Guinea-Bissau, and Kenya who are already showing potential, we should consider investing in market research for these regions to identify consumer preferences and trends to expand further.
+   
 **Dashboard Overview:**
 ![Retail%20Sales](Retail%20Sales.PNG)
 
