@@ -141,3 +141,15 @@ In reviewing the data, some clear patterns have emerged regarding employee attri
 **Project Description:**
  
 **Technology used:** SQL server
+
+
+# Project 6
+**Title:** Employee Details and Salary
+ 
+**SQL Code:** 
+ 
+**SQL Skills Used:**
+ 
+**Project Description:**
+ 
+**Technology used:** SQL server
