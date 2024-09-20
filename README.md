@@ -132,7 +132,7 @@ In reviewing the data, some clear patterns have emerged regarding employee attri
 ![Attrition](Attrition.PNG)
 
 # Project 5
-**Title:** Employee ID Dashboard
+**Title:** Employee ID Query
  
 **SQL Code:** [Sql queries](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Employee_Data.Sql)
  
@@ -146,7 +146,7 @@ In reviewing the data, some clear patterns have emerged regarding employee attri
 # Project 6
 **Title:** Employee Details and Salary
  
-**SQL Code:** 
+**SQL Code:** [Sql queries](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Employee_Details_Salary.Sql)
  
 **SQL Skills Used:**
  
