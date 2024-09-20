@@ -17,7 +17,7 @@
 **Recommendations:**
 1. Focus on High-Performing Categories: Electronics and furniture should be prioritized for growth strategies, such as expanding the product range, offering bundles or promotions, and improving marketing efforts.Clothing also contributes significantly and can be further leveraged with seasonal fashion promotions or cross-selling with other categories.
 2. Enhance Mid-Week Sales: Since Tuesday and Wednesday are slower sales days, consider offering midweek promotions by offering exclusive rewards or discounts to drive more traffic on those days.
-3. invest more in seasonal promotions
+3. Invest more in seasonal promotions
 4. To boost the sales for slower Q1 and Q2, we should consider Post-holiday sales with a sustainance marketing for the period.
 5. The highest selling stores, such as in Congo, Korea, and Anguilla, should be monitored and supported with localized marketing campaigns to cater to their customer demands.
 6. For the emerging markets like Mozambique, Guinea-Bissau, and Kenya who are already showing potential, we should consider investing in market research for these regions to identify consumer preferences and trends to expand further.
