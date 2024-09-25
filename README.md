@@ -153,3 +153,14 @@ In reviewing the data, some clear patterns have emerged regarding employee attri
 **Project Description:**
  
 **Technology used:** SQL server
+
+# Project 7
+**Title:** Football Players Data
+ 
+**SQL Code:** [Sql queries](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Football_Players_Data.Sql)
+ 
+**SQL Skills Used:**
+ 
+**Project Description:**
+ 
+**Technology used:** SQL server
