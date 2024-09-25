@@ -136,7 +136,7 @@ In reviewing the data, some clear patterns have emerged regarding employee attri
  
 **SQL Code:** [Sql queries](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Employee_Data.Sql)
  
-**SQL Skills Used:**
+**SQL Skills Used:** Basic SQL Queries, Aggregate Functions & Grouping, Subqueries, Filtering and Logical Operators
  
 **Project Description:**
  
@@ -148,7 +148,7 @@ In reviewing the data, some clear patterns have emerged regarding employee attri
  
 **SQL Code:** [Sql queries](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Employee_Details_Salary.Sql)
  
-**SQL Skills Used:**
+**SQL Skills Used:** Basic SQL Queries, Aggregate Functions & Grouping, Subqueries, Filtering and Logical Operators
  
 **Project Description:**
  
@@ -159,7 +159,7 @@ In reviewing the data, some clear patterns have emerged regarding employee attri
  
 **SQL Code:** [Sql queries](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Football_Players_Data.Sql)
  
-**SQL Skills Used:**
+**SQL Skills Used:** Basic SQL Queries, Aggregate Functions & Grouping, Subqueries, Filtering and Logical Operators
  
 **Project Description:**
  
