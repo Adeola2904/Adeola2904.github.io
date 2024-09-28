@@ -164,3 +164,16 @@ In reviewing the data, some clear patterns have emerged regarding employee attri
 **Project Description:**
  
 **Technology used:** SQL server
+
+# Project 8
+ 
+**Title:** [Cookies Financial Report Dashboard](https://github.com/Adeola2904/Adeola2904.github.io/blob/main/Cookies%20Financial%20Report%20Dashboard%202019.pbix)
+ 
+**Tools Used:** PowerBi Desktop (filters, slicers, timelines)
+ 
+**Project Description:**
+ 
+**Key findings:**
+ 
+**Dashboard Overview:**
+![Cookies](Cookies.PNG)
